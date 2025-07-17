@@ -21,7 +21,10 @@
       margin-bottom: 30px;
     }
     .btn {
-      display: block;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
       width: 90%;
       max-width: 400px;
       margin: 10px auto;
@@ -31,7 +34,7 @@
       color: white;
       text-decoration: none;
       border-radius: 12px;
-      transition: 0.3s;
+      transition: background-color 0.3s;
     }
     .btn:hover {
       background-color: #0055aa;
@@ -43,7 +46,7 @@
       box-shadow: 0 0 10px rgba(0,0,0,0.1);
     }
     footer {
-      margin-top: 30px;
+      margin-top: 40px;
       font-size: 13px;
       color: #777;
     }
@@ -56,7 +59,7 @@
 
   <a class="btn" href="https://t.me/VIPZEXNET_BOT?start=start">✅ شروع ربات در تلگرام</a>
   <a class="btn" href="https://mahdishamiahar.github.io/Web.VIPZEXNET/">🌐 سایت رسمی VIPZEXNET</a>
-  <a class="btn" href="https://github.com/Mahdishamiahar/app.VIPZEXNET.git">📥 دریافت نرم‌افزار</a>
+  <a class="btn" href="https://github.com/Mahdishamiahar/apVIPZEXNET.git">📥 دریافت نرم‌افزار</a>
   <a class="btn" href="https://t.me/Supp_ort_VIPZEXNET">🛟 پشتیبانی در تلگرام</a>
   <a class="btn" href="https://t.me/Supp_ort_VIPZEXNET">🛒 خرید سرویس</a>
 
