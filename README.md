@@ -59,7 +59,7 @@
 
   <a class="btn" href="https://t.me/VIPZEXNET_BOT?start=start">✅ شروع ربات در تلگرام</a>
   <a class="btn" href="https://mahdishamiahar.github.io/Web.VIPZEXNET/">🌐 سایت رسمی VIPZEXNET</a>
-  <a class="btn" href="https://github.com/Mahdishamiahar/apVIPZEXNET.git">📥 دریافت نرم‌افزار</a>
+  <a class="btn" href="https://mahdishamiahar.github.io/apVIPZEXNET/">📥 دریافت نرم‌افزار</a>
   <a class="btn" href="https://t.me/Supp_ort_VIPZEXNET">🛟 پشتیبانی در تلگرام</a>
   <a class="btn" href="https://t.me/Supp_ort_VIPZEXNET">🛒 خرید سرویس</a>
 
